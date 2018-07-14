@@ -93,5 +93,8 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# Install Mac App Store Support
+brew install mas
+
 # Remove outdated versions from the cellar.
 brew cleanup
